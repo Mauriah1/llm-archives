@@ -21,5 +21,4 @@ You should see a file called cns_maryland_posts.json appear. Let's look at it. I
 Back in the Terminal, type: python entity_extraction.py and watch the output.
 
 ### Evaluation for JOUR389W
-
-PUT YOUR EVALUATION HERE
+My news organization story did very well when pasting in here to get the information it needed. The people, places, and organizations are tools that my news organization could use for its archives by extracting them from documents and tagging them for future research, sourcing, or story development. This process can also reveal patterns, for example, showing where certain types of hazards or violence tend to occur, if particular neighborhoods are repeatedly mentioned, or if certain families or entities are consistently involved in incidents. Over time, this can help identify systemic issues or emerging trends worth investigating further.
